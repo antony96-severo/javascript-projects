@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pokemon Info</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container-general">
+      <div id="container">
+        <div class="titulo-pokedex">
+          <img src="pokebola.png" alt="pokebola">
+          <h1>Global Research Pokédex</h1>
+          <img src="pokebola.png" alt="pokebola">
+        </div>
+        <h2>Projeto voltado à documentação e análise de informações detalhadas sobre espécies Pokémon, integrando dados de múltiplas gerações em um único ambiente.</h2>
+        <div id="search-container">
+          <input
+            type="text"
+            id="pokemon-input"
+            placeholder="Enter Pokemon Name"
+          />
+          <button id="search-button">Search</button>
+        </div>
+        <div id="pokemon-info">
+          <img id="pokemon-image" src="" alt="" />
+          <h3 id="pokemon-name"></h3>
+          <h3 id="pokemon-height"></h3> 
+          <h3 id="pokemon-weight"></h3>
+          <h3 id="pokemon-type"></h3>
+          <ul id="pokemon-abilities"></ul>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
