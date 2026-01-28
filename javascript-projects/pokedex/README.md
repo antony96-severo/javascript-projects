@@ -67,5 +67,5 @@ Este projeto foi desenvolvido com o objetivo de:
 
 ## 👤 Autor
 
-Antony Severo
+Antony Severo - 
 Estudante de Análise de Sistemas e entusiasta da tecnologia.
