@@ -68,4 +68,4 @@ Este projeto foi desenvolvido com o objetivo de:
 ## 👤 Autor
 
 Antony Severo
-Estudante de Análise de Sistemas e entusiasta da tecnologia e do back-end.
+Estudante de Análise de Sistemas e entusiasta da tecnologia.
