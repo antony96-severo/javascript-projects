@@ -60,10 +60,10 @@ https://pokeapi.co/
 ## 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido com o objetivo de:
-Praticar o consumo de APIs REST
-Trabalhar com requisições HTTP e JSON
-Consolidar fundamentos de JavaScript aplicado
-Servir como projeto de portfólio
+- Praticar o consumo de APIs REST
+- Trabalhar com requisições HTTP e JSON
+- Consolidar fundamentos de JavaScript aplicado
+- Servir como projeto de portfólio
 
 ## 👤 Autor
 
